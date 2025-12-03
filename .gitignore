@@ -53,3 +53,28 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Temp Files
+
+*cache
+src/bfbt/bfbtester
+src/config.h.in
+src/Makefile
+src/Makefile.in
+src/stamp-h.in
+src/bfbt/Makefile
+src/bfbt/Makefile.in
+aclocal.m4
+compile
+config.guess
+config.h
+config.h.ini
+config.log
+config.status
+config.sub
+configure
+install-sh
+Makefile
+Makefile.in
+missing
+stamp-h1

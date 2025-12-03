@@ -1,0 +1,14 @@
+BFBTester: Brute Force Binary Tester
+Mike Heffner <mheffner@vt.edu>
+http://bfbtester.sourceforge.net
+
+AUTHOR
+
+	- Mike Heffner <mheffner@vt.edu> - original developer and
+	creator of BFBTester
+
+
+CONTRIBUTORS:
+
+	- Bill Marquette <wlmarque@hewitt.com> - Solaris and OpenBSD
+	testing/patches and other patch contributions
